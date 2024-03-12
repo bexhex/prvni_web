@@ -1,0 +1,37 @@
+body {
+	background-color: #bada55;
+    
+}
+
+
+p {
+    
+    color: rgb(180, 3, 62);
+}	
+
+div {
+	border: 1px solid red;
+
+}
+
+span {
+	background-color: aquamarine;
+	font-weight: bold;
+}
+
+.modra {
+	color: blue;
+}
+
+.zelena {
+	color: chartreuse;
+}
+
+.fialova {
+	color: blueviolet;
+}
+
+.tlusta {
+	font-weight: bold;
+	background-color: coral;
+}
