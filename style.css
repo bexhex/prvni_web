@@ -1,28 +1,22 @@
 body {
-	background-color: rgb(122, 108, 85);
+  background-color: rgb(170, 97, 133);
 }
-
 
 p {
-	color: pink;
-	border: 1px solid rgb(0, 242, 255);
-	padding: 10px;
-	margin: 10px;
-	
+  color: pink;
+  border: 1px solid rgb(0, 242, 255);
+  padding: 10px;
+  margin: 10px;
 }
 
-
-div{
-	border: 1px solid rgb(255, 0, 128);
-
+div {
+  border: 1px solid rgb(255, 0, 128);
 }
 
 body {
-	border: 1px solid rgb(235, 176, 79);
-
+  border: 1px solid rgb(235, 176, 79);
 }
 
-p span{
-	color: rgb(94, 210, 104);
-
+p span {
+  color: rgb(94, 210, 104);
 }
