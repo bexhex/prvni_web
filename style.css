@@ -1,3 +1,8 @@
+body {
+	background-color: pink;
+}
+
+
 p {
 	color: pink;
 	border: 1px solid rgb(0, 242, 255);
