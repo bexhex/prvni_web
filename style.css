@@ -49,14 +49,11 @@ img:hover.rounded {
   border-radius: 999rem;
 }
 
+
 .prvni {
-  color: limegreen;
+  background: limegreen;
 }
 
-div.druha {
-  color: cadetblue;
-}
-
-.druha {
-  color: rgb(250, 32, 101);
+div#jester.prvni {
+  background: red;
 }
