@@ -1,22 +1,62 @@
 body {
   background-color: rgb(170, 97, 133);
+  border: 2px solid rgb(235, 176, 79);
 }
 
 p {
+  padding: 0.6rem;
+  margin: 0.6rem;
+  border: 2px solid rgb(0, 242, 255);
   color: pink;
-  border: 1px solid rgb(0, 242, 255);
-  padding: 10px;
-  margin: 10px;
+  background-color: rgba(53, 35, 49, 0.517);
+  transition: all 0.2s;
+}
+
+p:hover {
+  border: 5px solid rgb(96, 230, 130);
+  background-color: rgba(187, 30, 153, 0.517);
+  font-size: x-large;
 }
 
 div {
-  border: 1px solid rgb(255, 0, 128);
-}
-
-body {
-  border: 1px solid rgb(235, 176, 79);
+  padding: 0.6rem;
+  margin: 0.6rem;
+  border: 2px solid rgb(255, 0, 128);
+  background-color: rgba(68, 68, 68, 0.517);
 }
 
 p span {
   color: rgb(94, 210, 104);
+}
+
+/* body,
+p,
+div,
+img {
+  border-radius: 3rem;
+} */
+
+.rounded {
+  border-radius: 0.8rem;
+}
+
+img.rounded {
+  border-radius: 3rem;
+  transition: all 0.2s;
+}
+
+img:hover.rounded {
+  border-radius: 999rem;
+}
+
+.prvni {
+  color: limegreen;
+}
+
+div.druha {
+  color: cadetblue;
+}
+
+.druha {
+  color: rgb(250, 32, 101);
 }
