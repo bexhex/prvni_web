@@ -61,7 +61,7 @@ img.rounded {
 }
 
 img:hover.rounded {
-  border-radius: 8rem;
+  border-radius: 100%;
 }
 
 .prvni {
