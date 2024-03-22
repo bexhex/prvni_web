@@ -37,7 +37,7 @@ div {
 }
 
 p span {
-  color: rgb(94, 160, 210);
+  color: rgb(176, 112, 216);
 }
 
 /* body,
@@ -65,7 +65,7 @@ img:hover.rounded {
 }
 
 .prvni {
-  background: limegreen;
+  background: rgb(132, 56, 93);
 }
 
 div#jester.prvni {
